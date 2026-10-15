@@ -1,0 +1,1 @@
+{"background_color":"#ffffff","description":"Search your saved pictures by name","display":"standalone","icons":[{"sizes":"192x192","src":"icons/icon-192.png","type":"image/png"},{"sizes":"512x512","src":"icons/icon-512.png","type":"image/png"}],"name":"Gallery","scope":"./","short_name":"Gallery","start_url":"./","theme_color":"#ffffff"}
